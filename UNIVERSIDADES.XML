@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<universidades>
+  <universidad>
+    <nombre>Universidad A</nombre>
+    <imagen>https://example.com/imagen_universidad_a.jpg</imagen>
+    <requisitos>
+      <requisito>Calificación mínima de 8.0</requisito>
+      <requisito>Carta de recomendación</requisito>
+    </requisitos>
+    <pagina_web>https://www.universidada.edu</pagina_web>
+  </universidad>
+  <universidad>
+    <nombre>Universidad B</nombre>
+    <imagen>https://example.com/imagen_universidad_b.jpg</imagen>
+    <requisitos>
+      <requisito>Calificación mínima de 7.5</requisito>
+      <requisito>Certificado de idioma</requisito>
+    </requisitos>
+    <pagina_web>https://www.universidadb.edu</pagina_web>
+  </universidad>
+  <universidad>
+    <nombre>Universidad C</nombre>
+    <imagen>https://example.com/imagen_universidad_c.jpg</imagen>
+    <requisitos>
+      <requisito>Calificación mínima de 8.5</requisito>
+      <requisito>Entrevista personal</requisito>
+    </requisitos>
+    <pagina_web>https://www.universidadc.edu</pagina_web>
+  </universidad>
+  <universidad>
+    <nombre>Universidad D</nombre>
+    <imagen>https://example.com/imagen_universidad_d.jpg</imagen>
+    <requisitos>
+      <requisito>Calificación mínima de 7.0</requisito>
+      <requisito>Ensayo de motivación</requisito>
+    </requisitos>
+    <pagina_web>https://www.universidadd.edu</pagina_web>
+  </universidad>
+  <universidad>
+    <nombre>Universidad E</nombre>
+    <imagen>https://example.com/imagen_universidad_e.jpg</imagen>
+    <requisitos>
+      <requisito>Calificación mínima de 8.0</requisito>
+      <requisito>Participación en proyectos</requisito>
+    </requisitos>
+    <pagina_web>https://www.universidade.edu</pagina_web>
+  </universidad>
+</universidades>
